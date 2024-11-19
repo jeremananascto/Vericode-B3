@@ -1,0 +1,4 @@
+io\cucumber\desafio\RunCucumberTest.class
+io\cucumber\desafio\Steps\VehicleDataSteps.class
+io\cucumber\desafio\Servicos\Configuracao.class
+io\cucumber\desafio\Pages\VehicleDataPage.class
